@@ -8,7 +8,7 @@ References:
 
 [1] J. Deng, Q. Zhang, "Combining Simple and Adaptive Monte Carlo Methods for Approximating Hypervolume" (Under Review)
 
-Jingda Deng 
-Department of Computer Science 
-City University of Hong Kong 
+Jingda Deng \
+Department of Computer Science \
+City University of Hong Kong \
 Email: jingddeng2-c@my.cityu.edu.hk
