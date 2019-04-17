@@ -22,7 +22,7 @@
 			delta: error probability
 			round: number of rounds in the hybrid algorithm
 			point set file: n rows of m-D vector
-			reference point file: m-D vector (assuming dominated by y point in the point set)
+			reference point file: m-D vector (assuming dominated by every point in the point set)
 			seed: random seed, using time(0) by default
 		- Output: 
 			hv: approximation result based on Eq. (1) in the paper
