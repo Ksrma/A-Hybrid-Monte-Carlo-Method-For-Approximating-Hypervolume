@@ -6,7 +6,7 @@ Latest Update: Apr, 2019
 
 References:
 
-[1] J. Deng, Q. Zhang, "Combining Simple and Adaptive Monte Carlo Methods for Approximating Hypervolume" (Under Review)
+[1] J. Deng, Q. Zhang, "Combining Simple and Adaptive Monte Carlo Methods for Approximating Hypervolume", IEEE Transactions on Evolutionary Computation (accepted)
 
 Jingda Deng \
 Department of Computer Science \
